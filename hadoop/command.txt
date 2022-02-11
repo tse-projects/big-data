@@ -1,0 +1,1 @@
+hadoop fs -get /user/hadoop/data/33000-BORDEAUX.csv /home/data
